@@ -5,7 +5,9 @@ Capstone project on Dano Airlines
 This project presents an interactive analysis of Dano Airlines’ passenger satisfaction data using Power BI. The dashboard gives insights into passenger feedback, service quality, and satisfaction trends across different demographics and travel types.
 
 
-📸 Dashboard Preview! ![Dashboard Preview](./1768308410019.jpg)
+📸 Dashboard Preview! 
+![Dashboard Preview](./1768308410019.jpg)`  
+
 
 
 🔍 Key Highlights

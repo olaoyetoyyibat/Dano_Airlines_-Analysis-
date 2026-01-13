@@ -38,3 +38,14 @@ This project presents an interactive analysis of Dano Airlines’ passenger sati
 📁 Files Included
 
 - `Dano_Airlines_Dashboard.pbix` – Power BI file
+
+To professionally conclude your GitHub submission, you can add a short *closing section* at the end of your *README* file. Here's a suggestion you can copy and customize:
+
+
+
+Conclusion 
+
+This project provided valuable insights into customer satisfaction for Dano Airlines using real-world data. By leveraging Power BI for data cleaning, modeling, and visualization, I was able to identify key areas of improvement to help the airline enhance customer experience.
+
+This is the second of three required projects in my data analysis training with *Digitaley Drive*, and I’m excited to move on to the final one.  
+

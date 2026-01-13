@@ -7,7 +7,7 @@ This project presents an interactive analysis of Dano Airlines’ passenger sati
 
 📸 Dashboard Preview! 
 
-! [Dashboard Preview] (./1768308410019.jpg)`
+! [Dashboard Preview] (./1768308410019.jpg)
 
 
 🔍 Key Highlights
